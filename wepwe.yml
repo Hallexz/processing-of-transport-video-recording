@@ -50,6 +50,6 @@ deploy_prod:
   only:
     refs:
       - tags
-      - master
+      - main
 
 
